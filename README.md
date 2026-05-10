@@ -253,11 +253,11 @@ DFS:
 
 # Screenshots
 
-![Screenshot 1](src/Screens/screens1.png)
+![Screenshot 1](src/Screens/screen1.png)
 
 ---
 
-![Screenshot 2](src/Screens/screens2.png)
+![Screenshot 2](src/Screens/screen2.png)
 
 
 # Reflection
