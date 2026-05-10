@@ -253,14 +253,11 @@ DFS:
 
 # Screenshots
 
-## Graph Structure Output
-
-```text\\
-src/Screens/screens1.png
-src/Screens/screens2.png
-```
+![Screenshot 1](src/Screens/screens1.png)
 
 ---
+
+![Screenshot 2](src/Screens/screens2.png)
 
 
 # Reflection
